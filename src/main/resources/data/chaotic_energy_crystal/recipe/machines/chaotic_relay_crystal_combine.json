@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "chaotic_energy_crystal:chaotic_io_crystal"
+    },
+    {
+      "item": "chaotic_energy_crystal:chaotic_io_crystal"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "chaotic_energy_crystal:chaotic_relay_crystal"
+  }
+}

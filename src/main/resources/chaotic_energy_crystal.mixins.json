@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.jerry.main.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "TileCrystalBaseMixin",
+    "TileCrystalWirelessIOMixin"
+  ],
+  "client": [
+    "CrystalFXBeamMixin",
+    "CrystalFXIOMixin",
+    "CrystalFXRingMixin",
+    "RenderItemEnergyCrystalMixin",
+    "RenderTileEnergyCrystalMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
