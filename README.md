@@ -1,1 +1,3 @@
-### This mod is quite straightforward. It merely adds energy crystals of chaos level to DE. You can find them in the creative tab of DE's block.
+# Chaotic Energy Crystal
+
+This mod is quite straightforward. It merely adds energy crystals of chaos level to DE. You can find them in the creative tab of DE's block.
