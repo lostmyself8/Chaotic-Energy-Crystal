@@ -22,11 +22,6 @@ public abstract class TileCrystalWirelessIOMixin extends TileCrystalBase {
         super(tileEntityTypeIn, pos, state);
     }
 
-    @Override
-    public int getTier() {
-        return super.getTier();
-    }
-
     @Inject(method = "getMaxReceivers", at = @At("HEAD"), cancellable = true)
     private void chaosEnergyCrystal$getMaxReceivers(CallbackInfoReturnable<Integer> cir) {
         if (getTier() == CHAOTIC_TIER) {

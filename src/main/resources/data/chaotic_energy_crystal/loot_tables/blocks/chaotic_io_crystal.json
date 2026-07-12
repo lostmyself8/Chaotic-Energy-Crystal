@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "chaotic_energy_crystal:chaotic_wireless_crystal"
+          "name": "chaotic_energy_crystal:chaotic_io_crystal"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "chaotic_energy_crystal:blocks/chaotic_wireless_crystal"
+  "random_sequence": "chaotic_energy_crystal:blocks/chaotic_io_crystal"
 }

@@ -79,5 +79,5 @@ Find them in the DE Creative Tab → *Draconic Evolution Blocks*.
 |:-----------------------|:-----------------|
 | **Draconic Evolution** | ✅ Required       |
 | **JEI / REI**          | ✅ Recommended    |
-| **Minecraft**          | 1.21.1           |
-| **Mod Loader**         | NeoForge         |
+| **Minecraft**          | 1.20.1           |
+| **Mod Loader**         | Forge            |
