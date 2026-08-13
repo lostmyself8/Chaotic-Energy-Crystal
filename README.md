@@ -15,7 +15,7 @@ Adds **Chaotic-tier energy crystals** for **Draconic Evolution**.
 
 Find them in the DE Creative Tab → *Draconic Evolution Blocks*.
 
-📦 **Dependencies:** [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) (Required)
+**Dependencies:** [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) (Required)
 
 ---
 
@@ -36,7 +36,7 @@ Find them in the DE Creative Tab → *Draconic Evolution Blocks*.
 
 ## Crystal Overview
 
-### ⚡ Chaotic IO Crystal
+### Chaotic IO Crystal
 
 ![Chaotic IO Crystal](./pic/chaotic-io.png)
 
@@ -48,7 +48,7 @@ Find them in the DE Creative Tab → *Draconic Evolution Blocks*.
 
 ---
 
-### 🔁 Chaotic Relay Crystal
+### Chaotic Relay Crystal
 
 ![Chaotic Relay Crystal](./pic/chaotic-relay.png)
 
@@ -60,7 +60,7 @@ Find them in the DE Creative Tab → *Draconic Evolution Blocks*.
 
 ---
 
-### 📡 Chaotic Wireless Crystal
+### Chaotic Wireless Crystal
 
 ![Chaotic Wireless Crystal](./pic/chaotic-wireless.png)
 
